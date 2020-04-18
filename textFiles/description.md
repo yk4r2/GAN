@@ -1,3 +1,3 @@
-# GAN
+# Description
 
 here be dragons
